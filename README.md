@@ -7,4 +7,6 @@ Febi Inayaturrizqiyah (1303190099)
 
 IT-43-01
 
+Link youtube: https://youtu.be/MViZCXWj5jo
+
 sumber vizualization: https://github.com/JordinaGR/sorting-algs-visualization
